@@ -1,0 +1,340 @@
+
+.brand-name {
+		padding: 20px 0px;
+		margin-left: 25px;
+}
+
+
+
+.baner {background-image:url(../image/banner.png);
+		background-size: cover;
+		background-repeat: no-repeat;
+		padding: 50px 0px;
+
+}
+
+
+h1{text-align: center;
+    padding-bottom: 20px;
+    border-bottom: 2px solid#127ce2d4;
+    color: white;
+    font-size: 50px;
+
+}
+
+p{text-align: center;
+	padding-top: 10px;
+	color: white;
+	font-size: 12px;
+}
+
+.btn{padding: 8px 14px;
+    color: white;
+    border: 1px solid #127ce2d4;
+    outline: none;
+    cursor: pointer;
+    margin-top: 81px;
+    margin-left:164px;
+    background: transparent;
+    transition: 0.2s;
+
+}
+
+
+
+.btn:hover{
+		background: #00000075;
+		color: white;
+		cursor: pointer;
+
+
+}
+
+
+.fas.fa-chevron-down{
+	
+    color: white;
+   
+    font-size: 30px;
+    margin-top: 150px;
+    margin-left:210px;
+}
+
+.second {
+		padding: 50px 0px;
+}
+
+.top-div h2 {
+			text-align: center;
+			padding: 20px;
+}
+
+
+.top-div p {color: #0000009e;
+			}
+
+
+
+
+.lower-div{
+	margin-top: 70px;
+}
+
+.lower-div h5{
+		text-align: center;
+		padding-top: 20px;
+}
+
+.lower-div p{color: black;
+		font-size: 20px;
+		line-height: 20px;
+		}
+
+
+.fas.fa-mobile-alt {
+    font-size: 80px;
+    background: #5fc3ff;
+    padding: 16px 30px;
+    color: white;
+    margin-left: 90px;
+    position: relative;
+}
+
+.fas.fa-mobile-alt:after{
+			content: "";
+			width: 50%;
+			height: 100%;
+			top: 0;
+			left: 0;
+			background:#0585d36e;
+			position: absolute;
+}
+
+
+.fab.fa-telegram-plane{ font-size: 80px;
+				    background:#5fc3ff;
+				    padding: 16px 30px;
+				    color: white;
+				    margin-left: 90px;
+				    position: relative;
+
+}
+
+.fab.fa-telegram-plane:after{
+			content: "";
+			width: 50%;
+			height: 100%;
+			top: 0;
+			left: 0;
+			background:#0585d36e;
+			position: absolute;
+
+
+}
+
+
+.fas.fa-bullhorn {
+					font-size: 80px;
+				    background: #5fc3ff;
+				    padding: 16px 20px;
+				    color: white;
+				    margin-left: 90px;
+				    position: relative;
+}
+
+
+.fas.fa-bullhorn:after{content: "";
+			width: 50%;
+			height: 100%;
+			top: 0;
+			left: 0;
+			background:#0585d36e;
+			position: absolute;
+
+
+}
+
+.lower-div h2{text-align: center;
+				padding: 10px;}
+
+
+
+
+.third{
+	padding: 50px 0px;
+	background-color:silver;
+}
+
+
+.third h2 {
+	text-align: center;
+
+}
+
+
+.margin{
+			margin-top: 50px;
+
+}
+
+.width {
+		max-width: 100%
+		
+		
+}
+
+
+.image-hover {margin-top:20px;
+		position: relative;
+		overflow: : hidden;
+}
+
+
+
+
+.image-hover-content{width: 100%;
+					top: 0;
+					right: -100%;
+					height: 100%;
+					position: absolute;
+					background:#0000ffad;
+
+}
+
+
+.image-hover:hover .image-hover-content{right: 0;
+										cursor: pointer;
+
+										
+}
+
+
+.fas.fa-search-plus{ font-size: 30px;
+					    background: #15154405;
+					    color: white;
+					    top: 45%;
+					    left: 36%;
+					    position: absolute;
+					    padding: 10px;
+					    border: 1px solid #02025a87;
+
+
+}
+
+
+.fas.fa-link{font-size: 30px;
+					    background: #15154405;
+					    color: white;
+					    top: 45%;
+					    left: 55%;
+					    position: absolute;
+					    padding: 10px;
+					    border: 1px solid #02025a87;
+
+
+}
+
+
+
+
+.four {
+	padding: 50px 0px;
+    background-image: linear-gradient(#00000075,#00000075),
+     linear-gradient(#00000075,#00000075),
+     url(../image/road.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+}
+
+.stay{text-align: center;color: white;}
+
+
+.btn-custom {    background:#00000073;
+			    color: white;
+			    padding: 5px 20px;
+			    border: 1px solid #008eff36;
+			    margin-left: 230px;
+
+}
+
+
+.btn-custom:hover{
+					background: #33333082;
+					color: white;
+					cursor: pointer;
+					border: 1px solid #008eff36;
+					outline: none;
+}
+
+
+
+form {
+		margin-top: 50px;
+}
+
+.five{
+	
+
+}
+
+
+
+
+.social-icon ul{text-align: center;
+
+}
+
+.social-icon ul li{display: inline-block;
+
+}
+
+
+.social-icon ul li a {text-decoration: none;
+					color: white;
+
+}
+
+
+.fab.fa-facebook-f{padding: 10px 14px;
+					background-color: #127ce2d4;
+					color: white;
+
+
+}
+
+
+
+.fab.fa-twitter{padding: 10px;
+					background-color:#127ce2d4;
+					color: white;
+
+
+
+}
+
+.fab.fa-google-plus-g{padding: 10px 8px;
+					background-color:#127ce2d4;
+					color: white;
+
+
+
+}
+
+
+.fab.fa-linkedin-in{padding: 10px 11px;
+					background-color: #127ce2d4;
+					color: white;
+
+
+}
+
+.passage {
+	margin-top: 20PX;
+}
+
+
+.social-icon{
+		margin-top: 20px;
+}
