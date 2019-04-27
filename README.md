@@ -1,0 +1,2 @@
+# stric
+strict
